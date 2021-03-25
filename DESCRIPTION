@@ -1,0 +1,20 @@
+Package: VSCodeCpp11Demo
+Title: Writing and Debugging cpp11 in VSCode
+Version: 0.1
+Authors@R: 
+    person(given = "Kun",
+           family = "Rem",
+           role = c("aut", "cre"),
+           email = "renkun@outlook.com")
+Description: A demo package to demonstrate writing and debugging cpp11 in VSCode
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+LinkingTo: 
+    cpp11
+SystemRequirements: C++11
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
