@@ -16,7 +16,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/Library/Frameworks/R.framework/Versions/4.0/Resources/library/cpp11/include",
+                "/Library/Frameworks/R.framework/Versions/4.1/Resources/library/cpp11/include",
                 "/Library/Frameworks/R.framework/Resources/include",
                 "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include",
                 "/usr/local/include"
